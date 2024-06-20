@@ -1,0 +1,19 @@
+there are two parts 
+frontend and backend 
+backend is integrated with strapi and render
+for payment gateway stripe is used 
+
+
+to run the project first run backend
+cd backend 
+npm run develop
+
+
+and then run frontend 
+cd frontend 
+npm run dev
+
+
+make sure to install node js, react and javascript with html
+
+strapi and render needs credentials
